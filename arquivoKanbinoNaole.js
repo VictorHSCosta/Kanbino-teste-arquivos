@@ -1,0 +1,1 @@
+VITE_RUBY_MODE=production ./bin/dev
